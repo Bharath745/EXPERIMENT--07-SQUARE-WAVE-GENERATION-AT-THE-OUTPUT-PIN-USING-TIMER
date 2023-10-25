@@ -143,9 +143,13 @@ FOR PULSE AT 4400
 ![image](https://github.com/Bharath745/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94508354/adba8e6a-52e5-48c6-b934-2b457ca1cfea)
 
 TON = 1.8 * 1 = 1.8ms
+
 TOFF= 2.7 * 1 = 2.7ms
+
 TOTAL TIME = 2.7 + 1.8 = 4.5
+
 FREQUENCY = 1/(TOTAL TIME) = 1 / 4.5 = 2.22
+
 % DUTY  =(2.7/4.5)*100 = 60%
 
 FOR PULSE AT 1200
@@ -153,9 +157,13 @@ FOR PULSE AT 1200
 ![image](https://github.com/Bharath745/EXPERIMENT--07-SQUARE-WAVE-GENERATION-AT-THE-OUTPUT-PIN-USING-TIMER/assets/94508354/122e9e3a-0713-4b86-8366-57208fa4d640)
 
 TON = 0.9 * 0.1 = 0.09ms
+
 TOFF= 3.6 * 0.1 = 0.36ms
+
 TOTAL TIME = 0.09 + 0.36 = 0.45
+
 FREQUENCY = 1/(TOTAL TIME) = = 1 / 4.5 = 2.22
+
 % DUTY =(0.09/0.45)*100 = 20%
 
 
@@ -165,9 +173,13 @@ FOR PULSE AT 900
 
 
 TON = 1.5 * 0.1 = 0.15ms
+
 TOFF= 3 * 0.1 = 0.3ms
+
 TOTAL TIME = 0.15+0.3 = 0.45
+
 FREQUENCY = 1/(TOTAL TIME) = = 1 / 4.5 = 2.22
+
 % DUTY =(0.15/0.45)*100 = 33%
 
 ## Result :
